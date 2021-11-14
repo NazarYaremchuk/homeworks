@@ -1,5 +1,5 @@
-/vscode
-/history
-/node_modules
-/L3
+.vscode/
+.history/
+.node_modules/
+.L3/
 
